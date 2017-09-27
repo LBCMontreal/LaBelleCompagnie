@@ -1,4 +1,4 @@
-C'est officiel, le cannabis est maintenant un marché valant plus de $20 million de Dollars, en Amérique du Nord. Tandis que le monde se préparent tranquilement à ce changement, que sait-on vraiment de cette plante ? En quoi pourrait-elle nous être bénéfique ou au contraire, maléfique ? Seriez-vous surpris de savoir que celle-ci peut vous faire économiser sur votre facture de chauffage ?
+C'est officiel, le cannabis est maintenant un marché évalué à plus de $20 million de Dollars, en Amérique du Nord seulement. Tandis que le monde se préparent tranquilement à ce changement, que sait-on vraiment de cette plante ? En quoi pourrait-elle nous être bénéfique ou au contraire, maléfique ? Seriez-vous surpris de savoir que celle-ci peut vous faire économiser sur votre facture de chauffage ?
 
 # Chanvre
 ![Image_Chanvre](src)
