@@ -1,11 +1,11 @@
 C'est officiel, le cannabis est maintenant un marché valant plus de $20 million de Dollars, en Amérique du Nord. Tandis que le monde se préparent tranquilement à ce changement, que sait-on vraiment de cette plante ? En quoi pourrait-elle nous être bénéfique ou au contraire, maléfique ? Seriez-vous surpris de savoir que celle-ci peut vous faire économiser sur votre facture de chauffage ?
 
-# Chanvre [Link/Chanvre]
+# Chanvre
 ![Image_Chanvre](src)
 [video1_Histoire](PuttheURL)
 [video2_Utilisation](PuttheURL)
 
-# Cannabis (récréationnel/médicale) [Link/MMJ]
+# Cannabis (récréationnel/médicale)
 ![Image_MMJ](src)
 [video1_Histoire](PuttheURL)
 [video2_Utilisaton](PuttheURL)
