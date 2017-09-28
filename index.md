@@ -22,13 +22,19 @@ Inst_LaBelleCompagnie
 Fcbk_LaBelleCompagnie
 labellecompagnie2017@gmail.com
 
+*** Code Mardown ***
+*********************
+![Google logo](https://www.google.fr/images/srpr/logo11w.png "google logo")
+*** Export HTML ***
+*******************
+<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
 
-
-
-
-
-
-
+*** Code Mardown ***
+*********************
+<http://www.google.com>
+*** Export HTML ***
+*******************
+<a href="http://google.com">http://www.google.com</a>
 
 
 ```markdown
