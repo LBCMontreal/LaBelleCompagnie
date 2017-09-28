@@ -14,6 +14,7 @@ Tandis que le monde se préparent tranquilement à ce changement, que sait-on vr
 
 # Cannabis (récréationnel/médicale)
 ![Image_MMJ](src)
+<br/>
 [video1_Histoire](PuttheURL)
 [video2_Utilisaton](PuttheURL)
 
