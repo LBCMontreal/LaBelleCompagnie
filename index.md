@@ -5,8 +5,11 @@ Tandis que le monde se préparent tranquilement à ce changement, que sait-on vr
 >Seriez-vous surpris de savoir que celle-ci peut vous faire économiser sur votre facture de chauffage ?
 
 # Chanvre
+---
 ![Image_Chanvre](src)
+<hr/>
 [video1_Histoire](PuttheURL)
+***
 [video2_Utilisation](PuttheURL)
 
 # Cannabis (récréationnel/médicale)
