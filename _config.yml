@@ -1,8 +1,10 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
+title: LaBelleCompagnie
+email: LaBelleCompagnie2017@gmail.com
 url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "C'est officiel, le cannabis est maintenant un marché évalué à plus de $20 million de Dollars, en Amérique du Nord seulement.Tandis que le monde se préparent tranquilement à ce changement, que sait-on vraiment de cette plante ? 
+En quoi pourrait-elle nous être bénéfique ou au contraire, maléfique ? 
+Seriez-vous surpris de savoir que celle-ci peut vous faire économiser sur votre facture de chauffage ?"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
